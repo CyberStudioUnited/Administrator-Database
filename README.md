@@ -1,4 +1,4 @@
-# Administrator-Database
+# Administrator Database
 This cPanel manager is free, but still in development.
 if your admin page on your site has a file manager, you can upload the files from admindb to your site.
 
