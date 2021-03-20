@@ -57,7 +57,7 @@ body {
   <h2>Administrator Database</h2>
   <p>Welcome to the website manager for you.</p>
   <h1>Click on this button to check all cookies associated with your site.</h1>
-  <button onclick="getCookies()">Check the domain</button>
+  <button onclick="getCookies()">Check cookies</button>
 
   <p id="cookies"></p>
 
