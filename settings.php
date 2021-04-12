@@ -45,7 +45,6 @@ body {
 </style>
 </head>
 <body>
-
 <div class="sidenav">
   <img src="ADMINDB.png" alt="AdminDB">
   <a href="settings.php">Settings</a>
@@ -54,20 +53,12 @@ body {
 
 
 <div class="main">
-  <h1>Click on this button to check all cookies associated with your site.</h1>
-  <button onclick="getCookies()">Check cookies</button>
-
-  <p id="cookies"></p>
-
-<script>
-function getCookies() {
-  var x = "Your cookies: " + document.cookie;
-  document.getElementById("cookies").innerHTML = x;
-}
-</script>
+  <p>All Settings.</p>
+  <h2>License: Free</h2>
+  <form method="get" action="#">
+    <button type="submit">Upgrade</button>
+</form>
+  
 </div>
-
-
-
 </body>
 </html> 

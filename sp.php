@@ -54,8 +54,10 @@ body {
 
 
 <div class="main">
-  <h1>Click on this button to check all cookies associated with your site.</h1>
-  <button onclick="getCookies()">Check cookies</button>
+  <h1>This will allow you to build a website easier.</h1>
+  <form action="buildwebsite.php">
+    <input type="submit" value="Open AD Site Builder" />
+</form>
 
   <p id="cookies"></p>
 

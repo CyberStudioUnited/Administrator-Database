@@ -54,15 +54,14 @@ body {
 
 
 <div class="main">
-  <h2>Administrator Database</h2>
-  <p>Welcome to the website manager for you.</p>
   <p>All Tools.</p>
   <img src="fm.png" alt="FM" href="filemanager.php" width="100" height="100" ><a href="filemanager.php">File Manager</a>
   <img src="domain.png" alt="FM" href="dc.php" width="100" height="100" ><a href="dc.php">Domain Checker</a>
   <img src="cookies.png" alt="FM" href="cookies.php" width="100" height="100" ><a href="cookies.php">Cookies Checker</a>
   <P></p>
-  <img src="buildwebsite.png" alt="FM" href="buildwebsite.php" width="100" height="100" ><a href="buildwebsite.php">Website Builder</a>
+  <img src="sp.png" alt="site publisher" href="sp.php" width="100" height="100" ><a href="sp.php">Site Publisher</a>
+  <img src="ssl.png" alt="ssl" href="ssl.php" width="100" height="100" ><a href="ssl.php">SSL/TLS</a>
+  <img src="ap.jpg" alt="dash" href="dash\index.html" width="100" height="100" ><a href="dash\index.html">Dash App Installer</a>
 </div>
-   
 </body>
 </html> 

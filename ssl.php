@@ -54,8 +54,10 @@ body {
 
 
 <div class="main">
-  <h1>Click on this button to check all cookies associated with your site.</h1>
-  <button onclick="getCookies()">Check cookies</button>
+  <h6>Make your website secure. (ONLY WORKS ON WEBSITES THAT ARE WEB HOSTED AND HAS A DOMAIN!.)</h6>
+  <form action="https://app.zerossl.com/certificates/issued">
+    <input type="submit" value="Manage SSL Sites..." />
+</form>
 
   <p id="cookies"></p>
 

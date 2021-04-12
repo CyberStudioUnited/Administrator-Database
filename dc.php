@@ -54,8 +54,6 @@ body {
 
 
 <div class="main">
-  <h2>Administrator Database</h2>
-  <p>Welcome to the website manager for you.</p>
   <h1>Click on this button to check if you in the right domain.</h1>
   <button onclick="getDomain()">Check the domain</button>
 
