@@ -1,6 +1,7 @@
 # Administrator Database
-This cPanel manager is free, but still in development.
-if your admin page on your site has a file manager, you can upload the files from admindb to your site.
+This cPanel manager is free, but still in development.          
+if your admin page on your site has a file manager, you can upload the files from admindb to your site.          
+View the demo here: https://cyberstudiounited.github.io/Administrator-Database-Demo/          
 
 [![GitHub Release](https://img.shields.io/github/release/Open-Shell/Open-Shell-Menu.svg)](https://github.com/CyberStudioUnited/Administrator-Database/releases/tag/4.4.160)
 # Images:
