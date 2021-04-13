@@ -7,7 +7,9 @@ Download The Latest Version here: https://github.com/CyberStudioUnited/Administr
 * PHP 7.3 or newer          
 * Apache HTTP Server          
 * A Website with Administrator Database (Only if you want SSL/TLS. Let's Encrypt Also Works!.)          
-
+# File Manager Login Info
+Username: admin          
+Password: admin@123          
 # Get Started
 The first step is to download the latest version in the releases.          
 The second step is to open the zip file with WinRAR, 7Zip, Or File Explorer and extract it.          
