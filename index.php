@@ -73,8 +73,6 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <img src="sp.png" alt="site publisher" href="sp.php" width="100" height="100" ><a href="sp.php">Site Publisher</a>
   <img src="ssl.png" alt="ssl" href="ssl.php" width="100" height="100" ><a href="ssl.php">SSL/TLS</a>
   <img src="ap.jpg" alt="dash" href="dash\index.html" width="100" height="100" ><a href="dash\index.html">Dash App Installer</a>
-  <p></p>
-  <img src="ap.jpg" alt="dash" href="dash\index.html" width="100" height="100" ><a href="dash\index.html">Link Shortener</a>
 </div>
 </body>
 </html> 
