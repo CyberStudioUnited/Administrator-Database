@@ -1,7 +1,13 @@
 # Administrator Database         
 if your admin page on your site has a file manager, you can upload the files from admindb to your site.          
 View the v1.0 demo here (the demo will no longer be maintained!.): https://cyberstudiounited.github.io/Administrator-Database-Demo/          
-Download The Latest Version here: https://github.com/CyberStudioUnited/Administrator-Database/releases/tag/1.0     
+Download The Latest Version here: https://github.com/CyberStudioUnited/Administrator-Database/releases/tag/1.0
+
+# Release Dates
+V1.0 = April 12, 2021
+V0.9 = March 31, 2021
+V0.1 = March 20, 2021
+
 # Administrator Database v1.1 Is out, Let's see whats new!.
 * Updated File Manager
 * Added Items in Dash App Installer
@@ -23,4 +29,3 @@ The last step is to visit the administrator database panel on your website, and 
 # Images From Version 0.9:
 ![admindb](https://user-images.githubusercontent.com/72953518/111859057-55fe1c00-8914-11eb-8a84-7cb18ccc7111.PNG)
 ![admindb2](https://user-images.githubusercontent.com/72953518/111859060-5696b280-8914-11eb-828f-7daa6bc50f3f.PNG)
-\
