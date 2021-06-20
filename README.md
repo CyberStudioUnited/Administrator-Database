@@ -23,3 +23,4 @@ The last step is to visit the administrator database panel on your website, and 
 * Updated File Manager
 * Added Items in Dash App Installer
 * New Items in Admin Panel
+* A Brand New Improved Look into AdminDB!.
