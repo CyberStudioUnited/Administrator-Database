@@ -1,6 +1,6 @@
 # Administrator Database         
 if your admin page on your site has a file manager, you can upload the files from admindb to your site.          
-View the demo here: https://cyberstudiounited.github.io/Administrator-Database-Demo/          
+View the v1.0 demo here (the demo will no longer be maintained!.): https://cyberstudiounited.github.io/Administrator-Database-Demo/          
 Download The Latest Version here: https://github.com/CyberStudioUnited/Administrator-Database/releases/tag/1.0     
 # Administrator Database v1.1 Is out, Let's see whats new!.
 * Updated File Manager
