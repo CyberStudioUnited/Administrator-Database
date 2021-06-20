@@ -1,3 +1,7 @@
+# Administrator Database v1.1 Is out, Let's see whats new!.
+* Updated File Manager
+* Added Items in Dash App Installer
+* New Items in Admin Panel
 # Administrator Database
 This cPanel manager is free. ADMINISTRATOR DATABASE IS NOW RELEASES TO THE PUBLIC, YAY!.         
 if your admin page on your site has a file manager, you can upload the files from admindb to your site.          
