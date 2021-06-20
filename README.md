@@ -1,5 +1,4 @@
-# Administrator Database
-This cPanel manager is free. ADMINISTRATOR DATABASE IS NOW RELEASES TO THE PUBLIC, YAY!.         
+# Administrator Database         
 if your admin page on your site has a file manager, you can upload the files from admindb to your site.          
 View the demo here: https://cyberstudiounited.github.io/Administrator-Database-Demo/          
 Download The Latest Version here: https://github.com/CyberStudioUnited/Administrator-Database/releases/tag/1.0     
