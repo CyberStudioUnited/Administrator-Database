@@ -3755,8 +3755,8 @@ $isStickyNavBar = $sticky_navbar ? 'navbar-fixed' : 'navbar-normal';
                     data: JSON.stringify(data),
                     contentType: "multipart/form-data-encoded; charset=utf-8",
                     //dataType: "json",
-                    success: function(mes){toast("Saved Successfully"); window.onbeforeunload = function() {return}},
-                    failure: function(mes) {toast("Error: try again");},
+                    success: function(mes){toast("✔️ Success!"); window.onbeforeunload = function() {return}},
+                    failure: function(mes) {toast("❌ The file manager files are corrupted. Error-Code: 0");},
                     error: function(mes) {toast(`<p style="background-color:red">${mes.responseText}</p>`);}
                 });
 
@@ -3951,7 +3951,7 @@ function lng($txt) {
     global $lang;
 
     // English Language
-    $tr['en']['AppName']        = 'Admin Database';      $tr['en']['AppTitle']           = 'Administrator Database File Manager';
+    $tr['en']['AppName']        = 'Admin Database';      $tr['en']['AppTitle']           = 'AdminDB File Manager v2.0';
     $tr['en']['Login']          = 'Sign in';                $tr['en']['Username']           = 'Username';
     $tr['en']['Password']       = 'Password';               $tr['en']['Logout']             = 'Sign Out';
     $tr['en']['Move']           = 'Move';                   $tr['en']['Copy']               = 'Copy';
@@ -3965,14 +3965,14 @@ function lng($txt) {
     $tr['en']['CopyTo']         = 'Copy to';                $tr['en']['DirectLink']         = 'Direct link';
     $tr['en']['UploadingFiles'] = 'Upload Files';           $tr['en']['ChangePermissions']  = 'Change Permissions';
     $tr['en']['Copying']        = 'Copying';                $tr['en']['CreateNewItem']      = 'Create New Item';
-    $tr['en']['Name']           = 'Name';                   $tr['en']['AdvancedEditor']     = 'Advanced Editor';
+    $tr['en']['Name']           = 'Name';                   $tr['en']['AdvancedEditor']     = 'Edit';
     $tr['en']['RememberMe']     = 'Remember Me';            $tr['en']['Actions']            = 'Actions';
     $tr['en']['Upload']         = 'Upload';                 $tr['en']['Cancel']             = 'Cancel';
     $tr['en']['InvertSelection']= 'Invert Selection';       $tr['en']['DestinationFolder']  = 'Destination Folder';
     $tr['en']['ItemType']       = 'Item Type';              $tr['en']['ItemName']           = 'Item Name';
     $tr['en']['CreateNow']      = 'Create Now';             $tr['en']['Download']           = 'Download';
     $tr['en']['Open']           = 'Open';                   $tr['en']['UnZip']              = 'UnZip';
-    $tr['en']['UnZipToFolder']  = 'UnZip to folder';        $tr['en']['Edit']               = 'Edit';
+    $tr['en']['UnZipToFolder']  = 'UnZip to folder';        $tr['en']['Edit']               = 'Legacy Editor';
     $tr['en']['NormalEditor']   = 'Legacy Editor';          $tr['en']['BackUp']             = 'Back Up';
     $tr['en']['SourceFolder']   = 'Source Folder';          $tr['en']['Files']              = 'Files';
     $tr['en']['Move']           = 'Move';                   $tr['en']['Change']             = 'Change';
