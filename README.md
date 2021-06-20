@@ -4,6 +4,9 @@ View the v1.0 demo here (the demo will no longer be maintained!.): https://cyber
 Download The Latest Version here: https://github.com/CyberStudioUnited/Administrator-Database/releases/tag/1.0
 
 # Release Dates
+V1.1 = June 20, 2021
+
+
 V1.0 = April 12, 2021
 
 
